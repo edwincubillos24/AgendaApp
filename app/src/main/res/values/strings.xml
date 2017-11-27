@@ -21,4 +21,16 @@
     <string name="section_format">Hello World from section: %1$d</string>
     <string name="crear">Crear</string>
     <string name="cerrar">Cerrar sesión</string>
+    <string name="formulario">Formulario</string>
+    <string name="nombre">Nombre</string>
+    <string name="telefono">Teléfono</string>
+    <string name="correo">Correo electrónico</string>
+    <string name="cumple">Seleccione fecha de nacimiento</string>
+    <string name="lat">Lat</string>
+    <string name="longi">Long</string>
+    <string name="buscar">Buscar</string>
+    <string name="borrar">Borrar</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="verMapa">Ver ubicación</string>
 </resources>

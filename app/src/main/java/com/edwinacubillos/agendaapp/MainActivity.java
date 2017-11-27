@@ -27,7 +27,9 @@ public class MainActivity extends Activity {
         int id = item.getItemId();
         Intent intent;
         switch (id) {
-            case R.id.mCrear:
+            case R.id.mForm:
+                intent = new Intent (MainActivity.this, FormularioActivity.class);
+                startActivity(intent);
                 break;
             case R.id.mCerrar:
                 SharedPreferences prefs = getSharedPreferences("MisPreferencias",MODE_PRIVATE);
