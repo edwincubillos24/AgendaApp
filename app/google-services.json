@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "686248207187",
+    "firebase_url": "https://organic-cursor-186901.firebaseio.com",
+    "project_id": "organic-cursor-186901",
+    "storage_bucket": "organic-cursor-186901.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686248207187:android:d6b97ecbe5c7bd0d",
+        "android_client_info": {
+          "package_name": "com.edwinacubillos.agendaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686248207187-dqn2bl6gjp3rnd24dghgio0t11f065ko.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.edwinacubillos.agendaapp",
+            "certificate_hash": "07446338a7092c27d0cc5b94eabb08dcb38a0557"
+          }
+        },
+        {
+          "client_id": "686248207187-98eeo0hlavopdd1rnv803of3v4ll1oei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4rOHTvAgUZq-F3gGgbk4crD2TDiJqd48"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686248207187-98eeo0hlavopdd1rnv803of3v4ll1oei.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

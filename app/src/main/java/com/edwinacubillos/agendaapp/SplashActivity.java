@@ -5,12 +5,15 @@ import android.content.Intent;
 import android.content.SharedPreferences;
 import android.content.pm.ActivityInfo;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.view.Window;
 
 import java.util.Timer;
 import java.util.TimerTask;
 
-public class SplashActivity extends Activity {
+import static android.content.Context.MODE_PRIVATE;
+
+public class SplashActivity extends AppCompatActivity {
 
     private final long SPLASH_DELAY = 3000;
 

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/mLista"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Lista de contactos" />
+        <item
+            android:id="@+id/mFormulario"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Formulario" />
+
+    </group>
+
+    <item android:title="Cerrar ">
+        <menu>
+            <item
+                android:id="@+id/mCerrar"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Cerrar Sesión"/>
+        </menu>
+    </item>
+
+</menu>

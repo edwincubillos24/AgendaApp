@@ -10,7 +10,7 @@ import android.database.sqlite.SQLiteOpenHelper;
 
 public class AgendaSQLiteHelper extends SQLiteOpenHelper {
 
-    String sqlCreate="CREATE TABLE contactos (" +
+    String sqlCreate="CREATE TABLE Contactos (" +
             "id INTEGER PRIMARY KEY AUTOINCREMENT," +//0
             "nombre     TEXT," +//1
             "telefono   TEXT," +//2
